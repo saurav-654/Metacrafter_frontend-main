@@ -17,7 +17,6 @@ It is a simple frontend through which we can transfer ethereums to anyone by the
  - Metamask
  - Remix-IDE
 
-## Active page
-https://gks2022004.github.io/Metacrafter_frontend/
+
 
 
