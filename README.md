@@ -1,4 +1,4 @@
-# My-Pay
+# Ethconnect
 It is a simple frontend through which we can transfer ethereums to anyone by their metamask address.
 
 ## Steps to use
@@ -12,8 +12,6 @@ It is a simple frontend through which we can transfer ethereums to anyone by the
 - Shows the "transaction is successful" message
 - Shows the wallet balance
 
- ## Preview
- ![image](https://github.com/gks2022004/Metacrafter_frontend/assets/94637265/4922664b-f6cb-4219-874f-c9b191f23991)
 
  ## Tech used
  - Metamask
@@ -22,8 +20,4 @@ It is a simple frontend through which we can transfer ethereums to anyone by the
 ## Active page
 https://gks2022004.github.io/Metacrafter_frontend/
 
-## License
-MIT License- See details [here](https://github.com/gks2022004/Metacrafter_frontend/blob/main/LICENSE)
-
-Copyright (c) 2023 Gaurav Kumar Singh
 
